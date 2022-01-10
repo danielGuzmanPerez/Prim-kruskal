@@ -1,0 +1,9 @@
+C:\Users\vdgp_\OneDrive\Escritorio\Actividad3\Actividad3\obj\Debug\Actividad3.csprojResolveAssemblyReference.cache
+C:\Users\vdgp_\OneDrive\Escritorio\Actividad3\Actividad3\obj\Debug\Actividad3.MainForm.resources
+C:\Users\vdgp_\OneDrive\Escritorio\Actividad3\Actividad3\obj\Debug\Actividad3.csproj.GenerateResource.Cache
+C:\Users\vdgp_\OneDrive\Escritorio\Actividad3\Actividad3\bin\Debug\Actividad3.exe.config
+C:\Users\vdgp_\OneDrive\Escritorio\Actividad3\Actividad3\bin\Debug\Actividad3.exe
+C:\Users\vdgp_\OneDrive\Escritorio\Actividad3\Actividad3\bin\Debug\Actividad3.pdb
+C:\Users\vdgp_\OneDrive\Escritorio\Actividad3\Actividad3\obj\Debug\Actividad3.exe
+C:\Users\vdgp_\OneDrive\Escritorio\Actividad3\Actividad3\obj\Debug\Actividad3.pdb
+C:\Users\vdgp_\OneDrive\Escritorio\Actividad3\Actividad3\obj\Debug\Actividad3.MostrarCamino.resources
